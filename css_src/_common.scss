@@ -6,6 +6,7 @@
 }
 
 .logo{
+  padding: 40px 0 0 50px;
 
   &-link{
     display:block;
@@ -13,9 +14,6 @@
     height:62px;
     background:url("../images/logo.png") no-repeat;
     text-indent:-99999px;
-    position:fixed;
-    top:40px;
-    left:50px;
 
   }
 }
@@ -25,9 +23,6 @@
   margin:0 auto;
 }
 
-.section{
-  z-index:-99999;
-}
 
 .square{
   position:absolute;

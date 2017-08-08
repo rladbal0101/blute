@@ -17,15 +17,14 @@ $(function(){
       scrollDelta += e.originalEvent.wheelDelta;
 
     }
-    console.log( -1 * ( $('.menu-list').offset().left + $('.menu-list').width()));
 
     if( scrollDelta >=0 ){
 
       scrollDelta = 0;
 
-    } else if( scrollDelta <= -1 * ($('.menu-list').offset().left + $('.menu-list').width()) ){
+    } else if( scrollDelta <= -($('.menu-list').offset().left + $('.menu-list').width()) ){
 
-      scrollDelta = -1 *($('.menu-list').offset().left + $('.menu-list').width());
+      scrollDelta = -($('.menu-list').offset().left + $('.menu-list').width());
 
     }
 
@@ -35,5 +34,35 @@ $(function(){
     });
 
   });
+
+  var engNum = ['ONE', 'TWO', 'THREE', 'FOUR', 'FIVE'];
+
+  $('.menu-list-link').on('mouseenter', function(){
+
+    var num1 = '';
+
+    var indexNumber = $(this).index('.menu-list-link');
+
+    num1 += engNum[indexNumber];
+
+    $(this).children('.menu-list-link-num').html(num1);
+
+  });
+
+  var num = ['01', '02', '03', '04', '05'];
+
+  $('.menu-list-link').on('mouseleave', function(){
+
+    var num2 = '';
+
+    var indexNumber = $(this).index('.menu-list-link');
+
+    num2 += num[indexNumber];
+
+    $(this).children('.menu-list-link-num').html(num2);
+
+  });
+
+  //$('.menu-list-link').on()
 
 });
