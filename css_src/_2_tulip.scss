@@ -1,10 +1,56 @@
-.tulip-bg{
+.tulip{
   width:1920px;
   height:1080px;
-  background:url("../images/tulip.jpg") no-repeat;
-  position:fixed;
+  background:url("../images/tulip.png") no-repeat fixed;
 }
 
 .content-wrap{
-  //position:relative;
+  position:relative;
+
+  &>.title{
+    position:absolute;
+  }
 }
+
+.section.tulip .content-wrap>.square{
+
+  &:nth-child(1){
+    top:109px;
+    left:740px;
+  }
+  &:nth-child(2){
+    top:279px;
+    left:0;
+  }
+  &:nth-child(3){
+    top:480px;
+    left:329px;
+  }
+  &:nth-child(4){
+    top:200px;
+    left:100px;
+  }
+  &:nth-child(5){
+    top:200px;
+    left:200px;
+  }
+  &:nth-child(6){
+    top:200px;
+    left:300px;
+  }
+  &:nth-child(7){
+    top:300px;
+    left:100px;
+  }
+  &:nth-child(8){
+    top:300px;
+    left:200px;
+  }
+  &:nth-child(9){
+    top:300px;
+    left:300px;
+  }
+
+
+}
+
