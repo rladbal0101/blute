@@ -46,14 +46,14 @@ gulp.task('watch', function(){
 
 // concat 실행 - 여러 개의 파일을 하나의 파일로 합치는 기능
 
-gulp.task('main', function() {
+gulp.task('blute', function() {
   return gulp.src('js_src/*.js')
       .pipe(sourcemaps.init())
-      .pipe(concat('main.js'))
+      .pipe(concat('blute.js'))
       .pipe(sourcemaps.write())
       .pipe(gulp.dest('js/'));
 });
 
-gulp.task('jsconcat', ['main']);
+gulp.task('jsconcat', ['blute']);
 
 gulp.task('default', ['livereload', 'include', 'sass', 'jsconcat', 'watch'] );
