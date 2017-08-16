@@ -7,8 +7,8 @@
     width:245px;
     height:2px;
     background:#fff;
-    //margin:0 auto;
-    position: absolute;
+    z-index: 10;
+    position: fixed;
     top: 70px;
     left: 50%;
     transform: translateX(-50%);
@@ -16,8 +16,8 @@
 
   &-list{
     float:left;
-    //margin:38px 0 0 475px;
-    position: absolute;
+    z-index: 10;
+    position: fixed;
     top: 65px;
     left: 50%;
     transform: translateX(-50%);
