@@ -20,9 +20,15 @@ $(function(){
 
   });
 
-  $('.square.small.more').on('click', function(){
+  $('.square.small.popup').on('click', function(){
 
-    $(this).children('.tulip-origin-more').addClass('on');
+    $(this).children('.tulip-origin-popup').addClass('on');
+
+  });
+
+  $('.tulip-close-btn').on('click',function(){
+
+    $(this).parents('.tulip-origin-popup').removeClass('on');
 
   });
 

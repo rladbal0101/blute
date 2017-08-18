@@ -19,9 +19,18 @@
   }
 }
 
+.section{
+  height:1800px;
+}
+
 .inner-box{
   width:1200px;
   margin:0 auto;
+}
+
+.content-wrap{
+  position:absolute;
+  margin-top: 230px;
 }
 
 .title{
@@ -108,4 +117,29 @@
     height:460px;
   }
 
+}
+
+.popup{
+
+  &-title{
+    color:#282828;
+    font-size:110px;
+  }
+
+  &-paragraph{
+
+    &-title{
+      font-size: 20px;
+      position: absolute;
+      top: 70px;
+    }
+
+    &.width{
+
+    }
+
+    &.height{
+
+    }
+  }
 }
