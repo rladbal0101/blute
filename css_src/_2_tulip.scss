@@ -2,90 +2,50 @@
   width:100%;
   background:url("../images/tulip/tulip_page.png") no-repeat fixed;
 
-  &-mean{
-
-    &:hover{
-      border:5px solid #fff;
-      box-sizing:border-box;
-    }
-  }
-
-  &-time{
-
-    &:hover{
-      border:5px solid #fff;
-      box-sizing:border-box;
-    }
-  }
-
   &-origin{
 
-    &:hover{
-      border:5px solid #fff;
-      box-sizing:border-box;
-
+    &-popup-img{
+      margin-top: 40px;
     }
-
-    &-popup{
-      width:460px;
-      height:720px;
-      background:#1e1d1d;
-      position: absolute;
-      top: 0;
-      right: 0;
-      display:none;
-      z-index: 10;
-
-      &.on{
-        display: block;
-      }
-
-      &-inner{
-        width:348px;
-        margin:0 auto;
-      }
-
-    }
-
   }
 
   &-type{
 
-    &:hover{
-      border:5px solid #fff;
-      box-sizing:border-box;
-    }
-
     &-popup{
+      @extend %clearfix;
+
+      &-img-wrap{
+        float:left;
+        margin-right: 26px;
+
+        &:last-child{
+          margin-right: 0;
+        }
+
+      }
+
+      &-title{
+        width:180px;
+        margin-top:10px;
+        text-align: center;
+      }
 
     }
+
   }
 
-  &-more-btn{
-    width:29px;
-    height:29px;
-    position: absolute;
-    bottom: 20px;
-    right: 20px;
-    background:url("../images/image_sprite.png") no-repeat 0 0;
-    border:0;
-    display:none;
+}
 
-    &.on{
-      display:block;
-    }
+.popup{
+
+  &-width.tulip-type{
+    top: 0;
+    right: 0;
   }
-
-  &-close-btn{
-    width: 18px;
-    height: 18px;
-    position: absolute;
-    top: 20px;
-    right: 20px;
-    background:url("../images/image_sprite.png") no-repeat -33px 0;
-    border: 0;
+  &-height.tulip-origin{
+    top: 0;
+    right: 0;
   }
-
 }
 
 .tulip-square-wrap>.square{

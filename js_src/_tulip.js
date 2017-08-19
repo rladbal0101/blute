@@ -6,37 +6,31 @@ $(function(){
 
   $('.square.small').on('mouseenter', function(){
 
-    $(this).children('.hidden-text-wrap').addClass('on');
-    $(this).children('.tulip-more-btn').addClass('on');
     $(this).children('.small-text.change').css({display:'none'});
+    $(this).children('.hidden-text-wrap').addClass('on');
+    $(this).children('.popup-btn-more').addClass('on');
 
   });
 
   $('.square.small').on('mouseleave', function(){
 
     $(this).children('.hidden-text-wrap').removeClass('on');
-    $(this).children('.tulip-more-btn').removeClass('on');
+    $(this).children('.popup-btn-more').removeClass('on');
     $(this).children('.small-text.change').css({display:'block'});
 
   });
 
   $('.square.small.popup').on('click', function(){
 
-    $(this).children('.tulip-origin-popup').addClass('on');
+    $(this).children('.popup-height').addClass('on');
+    $(this).children('.popup-width').addClass('on');
 
   });
 
-  $('.tulip-close-btn').on('click',function(){
+  $('.popup-btn-close').on('click',function(){
 
-    $(this).parents('.tulip-origin-popup').removeClass('on');
+    $(this).parents('.popup-height').removeClass('on');
 
   });
-
-  //$('.square.small').on('mouseleave', function(){
-  //
-  //  $(this).children('.hidden-text-wrap').removeClass('on');
-  //  $(this).children('.tulip-more-btn').removeClass('on');
-  //
-  //});
 
 });
