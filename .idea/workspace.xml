@@ -20,24 +20,15 @@
     <favorites_list name="blute" />
   </component>
   <component name="FileEditorManager">
-    <splitter split-orientation="horizontal" split-proportion="0.44079354">
+    <splitter split-orientation="horizontal" split-proportion="0.5">
       <split-first>
         <leaf>
-          <file leaf-file-name="_common.scss" pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/css_src/_common.scss">
+          <file leaf-file-name="_1_main.scss" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/css_src/_1_main.scss">
               <provider selected="true" editor-type-id="text-editor">
-                <state vertical-scroll-proportion="-17.76923">
-                  <caret line="161" column="12" selection-start-line="161" selection-start-column="12" selection-end-line="161" selection-end-column="12" />
-                  <folding>
-                    <element signature="e#71#266#0" expanded="false" />
-                    <element signature="e#276#296#0" expanded="false" />
-                    <element signature="e#308#344#0" expanded="false" />
-                    <element signature="e#359#404#0" expanded="false" />
-                    <element signature="e#412#581#0" expanded="false" />
-                    <element signature="e#1087#1671#0" expanded="false" />
-                    <element signature="e#1319#1669#0" expanded="false" />
-                    <element signature="e#2426#2908#0" expanded="false" />
-                  </folding>
+                <state vertical-scroll-proportion="-6.6538463">
+                  <caret line="29" column="11" selection-start-line="29" selection-start-column="11" selection-end-line="29" selection-end-column="11" />
+                  <folding />
                 </state>
               </provider>
             </entry>
@@ -45,11 +36,22 @@
           <file leaf-file-name="_2_tulip.scss" pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/css_src/_2_tulip.scss">
               <provider selected="true" editor-type-id="text-editor">
-                <state vertical-scroll-proportion="-7.269231">
-                  <caret line="16" column="6" selection-start-line="16" selection-start-column="6" selection-end-line="24" selection-end-column="7" />
+                <state vertical-scroll-proportion="-10.461538">
+                  <caret line="92" column="0" selection-start-line="92" selection-start-column="0" selection-end-line="92" selection-end-column="0" />
                   <folding>
+                    <element signature="e#6#453#0" expanded="false" />
                     <element signature="e#600#1076#0" expanded="false" />
                   </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="_gnb.scss" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/css_src/_gnb.scss">
+              <provider selected="true" editor-type-id="text-editor">
+                <state vertical-scroll-proportion="-19.615385">
+                  <caret line="30" column="0" selection-start-line="30" selection-start-column="0" selection-end-line="30" selection-end-column="0" />
+                  <folding />
                 </state>
               </provider>
             </entry>
@@ -57,8 +59,8 @@
           <file leaf-file-name="_3_rose.scss" pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/css_src/_3_rose.scss">
               <provider selected="true" editor-type-id="text-editor">
-                <state vertical-scroll-proportion="-10.461538">
-                  <caret line="16" column="4" selection-start-line="16" selection-start-column="4" selection-end-line="24" selection-end-column="7" />
+                <state vertical-scroll-proportion="-0.0">
+                  <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
                   <folding>
                     <element signature="e#459#571#0" expanded="false" />
                     <element signature="e#598#1070#0" expanded="false" />
@@ -67,38 +69,30 @@
               </provider>
             </entry>
           </file>
-          <file leaf-file-name="_4_peony.scss" pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/css_src/_4_peony.scss">
+          <file leaf-file-name="_common.scss" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/css_src/_common.scss">
               <provider selected="true" editor-type-id="text-editor">
-                <state vertical-scroll-proportion="-25.5">
-                  <caret line="51" column="0" selection-start-line="51" selection-start-column="0" selection-end-line="55" selection-end-column="0" />
+                <state vertical-scroll-proportion="-28.807692">
+                  <caret line="210" column="22" selection-start-line="210" selection-start-column="22" selection-end-line="210" selection-end-column="22" />
                   <folding>
-                    <element signature="e#713#1189#0" expanded="false" />
+                    <element signature="e#359#404#0" expanded="false" />
+                    <element signature="e#412#581#0" expanded="false" />
+                    <element signature="e#964#1574#0" expanded="false" />
+                    <element signature="e#1594#1817#0" expanded="false" />
+                    <element signature="e#1829#2052#0" expanded="false" />
+                    <element signature="e#2063#2235#0" expanded="false" />
+                    <element signature="e#2250#2320#0" expanded="false" />
                   </folding>
                 </state>
               </provider>
             </entry>
           </file>
-          <file leaf-file-name="_5_hydrangea.scss" pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/css_src/_5_hydrangea.scss">
+          <file leaf-file-name="_common.js" pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/js_src/_common.js">
               <provider selected="true" editor-type-id="text-editor">
-                <state vertical-scroll-proportion="-10.576923">
-                  <caret line="29" column="24" selection-start-line="0" selection-start-column="0" selection-end-line="98" selection-end-column="0" />
-                  <folding>
-                    <element signature="e#738#1214#0" expanded="false" />
-                  </folding>
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file leaf-file-name="_6_ranunculus.scss" pinned="false" current-in-tab="true">
-            <entry file="file://$PROJECT_DIR$/css_src/_6_ranunculus.scss">
-              <provider selected="true" editor-type-id="text-editor">
-                <state vertical-scroll-proportion="0.53477764">
-                  <caret line="80" column="10" selection-start-line="80" selection-start-column="10" selection-end-line="80" selection-end-column="10" />
-                  <folding>
-                    <element signature="e#518#712#0" expanded="false" />
-                  </folding>
+                <state vertical-scroll-proportion="0.22767857">
+                  <caret line="12" column="46" selection-start-line="12" selection-start-column="46" selection-end-line="12" selection-end-column="46" />
+                  <folding />
                 </state>
               </provider>
             </entry>
@@ -117,22 +111,41 @@
       </split-first>
       <split-second>
         <leaf>
+          <file leaf-file-name="1_main.html" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/html_src/1_main.html">
+              <provider selected="true" editor-type-id="text-editor">
+                <state vertical-scroll-proportion="-0.0">
+                  <caret line="0" column="38" selection-start-line="0" selection-start-column="38" selection-end-line="0" selection-end-column="38" />
+                  <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
           <file leaf-file-name="2_tulip.html" pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/html_src/2_tulip.html">
               <provider selected="true" editor-type-id="text-editor">
-                <state vertical-scroll-proportion="-11.884615">
-                  <caret line="64" column="0" selection-start-line="64" selection-start-column="0" selection-end-line="64" selection-end-column="0" />
+                <state vertical-scroll-proportion="-2.6153846">
+                  <caret line="4" column="19" selection-start-line="4" selection-start-column="19" selection-end-line="4" selection-end-column="19" />
                   <folding>
                     <element signature="n#li#0;n#ul#0;n#div#0;n#div#0;n#section#0;n#!!top" expanded="false" />
                     <element signature="n#li#1;n#ul#0;n#div#0;n#div#0;n#section#0;n#!!top" expanded="false" />
                     <element signature="n#li#2;n#ul#0;n#div#0;n#div#0;n#section#0;n#!!top" expanded="false" />
                     <element signature="n#li#3;n#ul#0;n#div#0;n#div#0;n#section#0;n#!!top" expanded="false" />
-                    <element signature="n#li#4;n#ul#0;n#div#0;n#div#0;n#section#0;n#!!top" expanded="false" />
-                    <element signature="n#li#5;n#ul#0;n#div#0;n#div#0;n#section#0;n#!!top" expanded="false" />
                     <element signature="n#li#6;n#ul#0;n#div#0;n#div#0;n#section#0;n#!!top" expanded="false" />
                     <element signature="n#div#2;n#div#0;n#div#1;n#li#7;n#ul#0;n#div#0;n#div#0;n#section#0;n#!!top" expanded="false" />
+                    <element signature="n#p#0;n#div#0;n#div#1;n#li#7;n#ul#0;n#div#0;n#div#0;n#section#0;n#!!top" expanded="false" />
                     <element signature="n#li#8;n#ul#0;n#div#0;n#div#0;n#section#0;n#!!top" expanded="false" />
                   </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="_gnb.html" pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/html_src/_include/_gnb.html">
+              <provider selected="true" editor-type-id="text-editor">
+                <state vertical-scroll-proportion="0.31264368">
+                  <caret line="16" column="62" selection-start-line="16" selection-start-column="62" selection-end-line="16" selection-end-column="62" />
+                  <folding />
                 </state>
               </provider>
             </entry>
@@ -140,8 +153,8 @@
           <file leaf-file-name="3_rose.html" pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/html_src/3_rose.html">
               <provider selected="true" editor-type-id="text-editor">
-                <state vertical-scroll-proportion="-17.653847">
-                  <caret line="105" column="0" selection-start-line="105" selection-start-column="0" selection-end-line="105" selection-end-column="0" />
+                <state vertical-scroll-proportion="-2.6153846">
+                  <caret line="4" column="18" selection-start-line="4" selection-start-column="18" selection-end-line="4" selection-end-column="18" />
                   <folding>
                     <element signature="n#li#0;n#ul#0;n#div#0;n#div#0;n#section#0;n#!!top" expanded="false" />
                     <element signature="n#li#1;n#ul#0;n#div#0;n#div#0;n#section#0;n#!!top" expanded="false" />
@@ -160,8 +173,8 @@
           <file leaf-file-name="4_peony.html" pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/html_src/4_peony.html">
               <provider selected="true" editor-type-id="text-editor">
-                <state vertical-scroll-proportion="-11.769231">
-                  <caret line="55" column="0" selection-start-line="55" selection-start-column="0" selection-end-line="55" selection-end-column="0" />
+                <state vertical-scroll-proportion="-2.6153846">
+                  <caret line="4" column="19" selection-start-line="4" selection-start-column="19" selection-end-line="4" selection-end-column="19" />
                   <folding>
                     <element signature="n#li#0;n#ul#0;n#div#0;n#div#0;n#section#0;n#!!top" expanded="false" />
                     <element signature="n#li#1;n#ul#0;n#div#0;n#div#0;n#section#0;n#!!top" expanded="false" />
@@ -178,19 +191,9 @@
           <file leaf-file-name="5_hydrangea.html" pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/html_src/5_hydrangea.html">
               <provider selected="true" editor-type-id="text-editor">
-                <state vertical-scroll-proportion="-11.769231">
-                  <caret line="32" column="13" selection-start-line="0" selection-start-column="0" selection-end-line="109" selection-end-column="37" />
-                  <folding>
-                    <element signature="n#li#0;n#ul#0;n#div#0;n#div#0;n#section#0;n#!!top" expanded="false" />
-                    <element signature="n#li#1;n#ul#0;n#div#0;n#div#0;n#section#0;n#!!top" expanded="false" />
-                    <element signature="n#li#2;n#ul#0;n#div#0;n#div#0;n#section#0;n#!!top" expanded="false" />
-                    <element signature="n#li#3;n#ul#0;n#div#0;n#div#0;n#section#0;n#!!top" expanded="false" />
-                    <element signature="n#li#4;n#ul#0;n#div#0;n#div#0;n#section#0;n#!!top" expanded="false" />
-                    <element signature="n#li#5;n#ul#0;n#div#0;n#div#0;n#section#0;n#!!top" expanded="false" />
-                    <element signature="n#li#6;n#ul#0;n#div#0;n#div#0;n#section#0;n#!!top" expanded="false" />
-                    <element signature="n#li#7;n#ul#0;n#div#0;n#div#0;n#section#0;n#!!top" expanded="false" />
-                    <element signature="n#li#8;n#ul#0;n#div#0;n#div#0;n#section#0;n#!!top" expanded="false" />
-                  </folding>
+                <state vertical-scroll-proportion="-2.5769231">
+                  <caret line="4" column="23" selection-start-line="4" selection-start-column="23" selection-end-line="4" selection-end-column="23" />
+                  <folding />
                 </state>
               </provider>
             </entry>
@@ -198,8 +201,8 @@
           <file leaf-file-name="6_ranunculus.html" pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/html_src/6_ranunculus.html">
               <provider selected="true" editor-type-id="text-editor">
-                <state vertical-scroll-proportion="-17.5">
-                  <caret line="67" column="46" selection-start-line="67" selection-start-column="46" selection-end-line="67" selection-end-column="46" />
+                <state vertical-scroll-proportion="-3.2692308">
+                  <caret line="5" column="9" selection-start-line="5" selection-start-column="9" selection-end-line="5" selection-end-column="9" />
                   <folding>
                     <element signature="n#li#0;n#ul#0;n#div#0;n#div#0;n#section#0;n#!!top" expanded="false" />
                     <element signature="n#li#1;n#ul#0;n#div#0;n#div#0;n#section#0;n#!!top" expanded="false" />
@@ -209,16 +212,6 @@
                     <element signature="n#li#6;n#ul#0;n#div#0;n#div#0;n#section#0;n#!!top" expanded="false" />
                     <element signature="n#li#7;n#ul#0;n#div#0;n#div#0;n#section#0;n#!!top" expanded="false" />
                   </folding>
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file leaf-file-name="1_main.html" pinned="false" current-in-tab="true">
-            <entry file="file://$PROJECT_DIR$/html/1_main.html">
-              <provider selected="true" editor-type-id="text-editor">
-                <state vertical-scroll-proportion="0.42645383">
-                  <caret line="22" column="27" selection-start-line="22" selection-start-column="27" selection-end-line="22" selection-end-column="27" />
-                  <folding />
                 </state>
               </provider>
             </entry>
@@ -246,35 +239,36 @@
         <option value="$PROJECT_DIR$/js_src/_gnb.js" />
         <option value="$PROJECT_DIR$/html/horizon_scroll.html" />
         <option value="$PROJECT_DIR$/html_src/horizon_scroll.html" />
-        <option value="$PROJECT_DIR$/html_src/1_main.html" />
-        <option value="$PROJECT_DIR$/html/1_main.html" />
         <option value="$PROJECT_DIR$/css_src/_header_gnb.scss" />
         <option value="$PROJECT_DIR$/gulpfile.js" />
         <option value="$PROJECT_DIR$/html_src/_include/_header_gnb.html" />
         <option value="$PROJECT_DIR$/css_src/style.scss" />
-        <option value="$PROJECT_DIR$/html_src/_include/_gnb.html" />
         <option value="$PROJECT_DIR$/css_src/_header.scss" />
         <option value="$PROJECT_DIR$/css_src/_reset.scss" />
-        <option value="$PROJECT_DIR$/html_src/_include/_header.html" />
         <option value="$PROJECT_DIR$/css_src/_1_main.scss" />
         <option value="$PROJECT_DIR$/js_src/_main.js" />
-        <option value="$PROJECT_DIR$/css_src/_gnb.scss" />
-        <option value="$PROJECT_DIR$/js_src/_tulip.js" />
         <option value="$PROJECT_DIR$/html/2_tulip.html" />
         <option value="$PROJECT_DIR$/html/3_rose.html" />
-        <option value="$PROJECT_DIR$/html_src/2_tulip.html" />
-        <option value="$PROJECT_DIR$/css_src/_2_tulip.scss" />
-        <option value="$PROJECT_DIR$/css_src/_common.scss" />
-        <option value="$PROJECT_DIR$/css_src/_3_rose.scss" />
-        <option value="$PROJECT_DIR$/html_src/3_rose.html" />
-        <option value="$PROJECT_DIR$/html/4_peony.html" />
         <option value="$PROJECT_DIR$/html/5_hydrangea.html" />
+        <option value="$PROJECT_DIR$/css_src/_3_rose.scss" />
         <option value="$PROJECT_DIR$/css_src/_4_peony.scss" />
         <option value="$PROJECT_DIR$/css_src/_5_hydrangea.scss" />
-        <option value="$PROJECT_DIR$/html_src/5_hydrangea.html" />
-        <option value="$PROJECT_DIR$/html_src/4_peony.html" />
         <option value="$PROJECT_DIR$/css_src/_6_ranunculus.scss" />
+        <option value="$PROJECT_DIR$/html_src/_include/_gnb.html" />
+        <option value="$PROJECT_DIR$/js_src/_tulip.js" />
+        <option value="$PROJECT_DIR$/css_src/_2_tulip.scss" />
+        <option value="$PROJECT_DIR$/html/4_peony.html" />
+        <option value="$PROJECT_DIR$/html/1_main.html" />
+        <option value="$PROJECT_DIR$/html_src/_include/_header.html" />
+        <option value="$PROJECT_DIR$/css_src/_common.scss" />
+        <option value="$PROJECT_DIR$/js_src/_common.js" />
+        <option value="$PROJECT_DIR$/html_src/1_main.html" />
+        <option value="$PROJECT_DIR$/html_src/2_tulip.html" />
+        <option value="$PROJECT_DIR$/html_src/3_rose.html" />
+        <option value="$PROJECT_DIR$/html_src/4_peony.html" />
+        <option value="$PROJECT_DIR$/html_src/5_hydrangea.html" />
         <option value="$PROJECT_DIR$/html_src/6_ranunculus.html" />
+        <option value="$PROJECT_DIR$/css_src/_gnb.scss" />
       </list>
     </option>
   </component>
@@ -324,10 +318,10 @@
     <order />
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="26" />
-    <option name="y" value="76" />
-    <option name="width" value="1710" />
-    <option name="height" value="1063" />
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1936" />
+    <option name="height" value="1056" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="false">
     <OptionsSetting value="true" id="Add" />
@@ -352,7 +346,6 @@
       <sortByType />
     </navigator>
     <panes>
-      <pane id="Scratches" />
       <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
@@ -396,12 +389,45 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="html" />
+              <option name="myItemId" value="html_src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="blute" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="blute" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="html_src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="_include" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="blute" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="blute" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="css_src" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
+      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -418,8 +444,9 @@
       <recent name="D:\KYM\front_end\website_exercise\blute\css_src" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
-      <recent name="D:\KYM\front_end\website_exercise\blute\html_src" />
       <recent name="D:\KYM\front_end\website_exercise\blute" />
+      <recent name="D:\KYM\front_end\website_exercise\blute\css" />
+      <recent name="D:\KYM\front_end\website_exercise\blute\html_src" />
     </key>
   </component>
   <component name="RunManager">
@@ -476,17 +503,17 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="26" y="76" width="1710" height="1063" extended-state="0" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="false" />
     <layout>
-      <window_info id="Gulp" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.15015806" sideWeight="0.3048276" order="1" side_tool="true" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.13038278" sideWeight="0.6951724" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Gulp" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.14225501" sideWeight="0.32972974" order="3" side_tool="true" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.14225501" sideWeight="0.67027026" order="1" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.21621622" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25621623" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.26086956" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -498,6 +525,26 @@
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
+    <layout-to-restore>
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
+      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.21621622" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.26086956" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Gulp" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.11485775" sideWeight="0.33103448" order="1" side_tool="true" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.11485775" sideWeight="0.6689655" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+    </layout-to-restore>
   </component>
   <component name="Vcs.Log.UiProperties">
     <option name="RECENTLY_FILTERED_USER_GROUPS">
@@ -515,13 +562,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/../artica/html/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="37" column="27" selection-start-line="37" selection-start-column="27" selection-end-line="37" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/html_src/1_main.html">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
@@ -578,13 +618,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/css/style.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/../artica/html/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
@@ -593,13 +626,13 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/js/lib/jquery-3.2.1.min.map">
+      <provider editor-type-id="sourcemapFileViewerProvider">
+        <state />
+      </provider>
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
-      </provider>
-      <provider editor-type-id="sourcemapFileViewerProvider">
-        <state />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/css_src/_footer.scss">
@@ -693,27 +726,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/html_src/_include/_gnb.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-0.65384614">
-          <caret line="1" column="23" selection-start-line="1" selection-start-column="23" selection-end-line="1" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/html_src/_include/_header.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.07816092">
-          <caret line="4" column="22" selection-start-line="4" selection-start-column="22" selection-end-line="4" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/gulpfile.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.9620536">
-          <caret line="54" column="3" selection-start-line="54" selection-start-column="3" selection-end-line="54" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/css_src/_reset.scss">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.70689654">
@@ -721,19 +733,140 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/css_src/_gnb.scss">
+    <entry file="file://$PROJECT_DIR$/html/3_rose.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-0.65384614">
+          <caret line="1" column="0" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/html/5_hydrangea.html">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="40" column="27" selection-start-line="40" selection-start-column="27" selection-end-line="40" selection-end-column="27" />
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/html/6_ranunculus.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gulpfile.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.79129463">
+          <caret line="54" column="3" selection-start-line="54" selection-start-column="3" selection-end-line="54" selection-end-column="3" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/css_src/_1_main.scss">
+    <entry file="file://$PROJECT_DIR$/css_src/_6_ranunculus.scss">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-3.2307692">
-          <caret line="5" column="14" selection-start-line="5" selection-start-column="14" selection-end-line="5" selection-end-column="14" />
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#518#712#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css_src/_5_hydrangea.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#738#1214#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css_src/_4_peony.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#713#1189#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/html/4_peony.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.48208955">
+          <caret line="19" column="17" selection-start-line="19" selection-start-column="17" selection-end-line="19" selection-end-column="17" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/html_src/_include/_header.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.16113745">
+          <caret line="6" column="50" selection-start-line="6" selection-start-column="50" selection-end-line="6" selection-end-column="50" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css_src/_3_rose.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#459#571#0" expanded="false" />
+            <element signature="e#598#1070#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/html/1_main.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.01954023">
+          <caret line="7" column="33" selection-start-line="7" selection-start-column="33" selection-end-line="7" selection-end-column="33" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/html/2_tulip.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.70804596">
+          <caret line="58" column="44" selection-start-line="58" selection-start-column="44" selection-end-line="58" selection-end-column="44" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css_src/_2_tulip.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-10.461538">
+          <caret line="92" column="0" selection-start-line="92" selection-start-column="0" selection-end-line="92" selection-end-column="0" />
+          <folding>
+            <element signature="e#6#453#0" expanded="false" />
+            <element signature="e#600#1076#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css_src/_common.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-28.807692">
+          <caret line="210" column="22" selection-start-line="210" selection-start-column="22" selection-end-line="210" selection-end-column="22" />
+          <folding>
+            <element signature="e#359#404#0" expanded="false" />
+            <element signature="e#412#581#0" expanded="false" />
+            <element signature="e#964#1574#0" expanded="false" />
+            <element signature="e#1594#1817#0" expanded="false" />
+            <element signature="e#1829#2052#0" expanded="false" />
+            <element signature="e#2063#2235#0" expanded="false" />
+            <element signature="e#2250#2320#0" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -745,162 +878,27 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/js_src/_tulip.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.6261161">
-          <caret line="35" column="3" selection-start-line="35" selection-start-column="3" selection-end-line="35" selection-end-column="3" />
-          <folding>
-            <element signature="e#0#50#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/html_src/1_main.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.07816092">
-          <caret line="4" column="27" selection-start-line="4" selection-start-column="27" selection-end-line="4" selection-end-column="27" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/html/3_rose.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.01954023">
-          <caret line="1" column="0" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/html/2_tulip.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.020689655">
-          <caret line="32" column="11" selection-start-line="32" selection-start-column="11" selection-end-line="32" selection-end-column="11" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/css_src/_common.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-17.76923">
-          <caret line="161" column="12" selection-start-line="161" selection-start-column="12" selection-end-line="161" selection-end-column="12" />
-          <folding>
-            <element signature="e#71#266#0" expanded="false" />
-            <element signature="e#276#296#0" expanded="false" />
-            <element signature="e#308#344#0" expanded="false" />
-            <element signature="e#359#404#0" expanded="false" />
-            <element signature="e#412#581#0" expanded="false" />
-            <element signature="e#1087#1671#0" expanded="false" />
-            <element signature="e#1319#1669#0" expanded="false" />
-            <element signature="e#2426#2908#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/html_src/2_tulip.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-11.884615">
-          <caret line="64" column="0" selection-start-line="64" selection-start-column="0" selection-end-line="64" selection-end-column="0" />
+        <state vertical-scroll-proportion="-2.6153846">
+          <caret line="4" column="19" selection-start-line="4" selection-start-column="19" selection-end-line="4" selection-end-column="19" />
           <folding>
             <element signature="n#li#0;n#ul#0;n#div#0;n#div#0;n#section#0;n#!!top" expanded="false" />
             <element signature="n#li#1;n#ul#0;n#div#0;n#div#0;n#section#0;n#!!top" expanded="false" />
             <element signature="n#li#2;n#ul#0;n#div#0;n#div#0;n#section#0;n#!!top" expanded="false" />
             <element signature="n#li#3;n#ul#0;n#div#0;n#div#0;n#section#0;n#!!top" expanded="false" />
-            <element signature="n#li#4;n#ul#0;n#div#0;n#div#0;n#section#0;n#!!top" expanded="false" />
-            <element signature="n#li#5;n#ul#0;n#div#0;n#div#0;n#section#0;n#!!top" expanded="false" />
             <element signature="n#li#6;n#ul#0;n#div#0;n#div#0;n#section#0;n#!!top" expanded="false" />
             <element signature="n#div#2;n#div#0;n#div#1;n#li#7;n#ul#0;n#div#0;n#div#0;n#section#0;n#!!top" expanded="false" />
+            <element signature="n#p#0;n#div#0;n#div#1;n#li#7;n#ul#0;n#div#0;n#div#0;n#section#0;n#!!top" expanded="false" />
             <element signature="n#li#8;n#ul#0;n#div#0;n#div#0;n#section#0;n#!!top" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/html/4_peony.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/css_src/_3_rose.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-10.461538">
-          <caret line="16" column="4" selection-start-line="16" selection-start-column="4" selection-end-line="24" selection-end-column="7" />
-          <folding>
-            <element signature="e#459#571#0" expanded="false" />
-            <element signature="e#598#1070#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/css_src/_2_tulip.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-7.269231">
-          <caret line="16" column="6" selection-start-line="16" selection-start-column="6" selection-end-line="24" selection-end-column="7" />
-          <folding>
-            <element signature="e#600#1076#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/html/5_hydrangea.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/css_src/_4_peony.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-25.5">
-          <caret line="51" column="0" selection-start-line="51" selection-start-column="0" selection-end-line="55" selection-end-column="0" />
-          <folding>
-            <element signature="e#713#1189#0" expanded="false" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/html_src/3_rose.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-17.653847">
-          <caret line="105" column="0" selection-start-line="105" selection-start-column="0" selection-end-line="105" selection-end-column="0" />
-          <folding>
-            <element signature="n#li#0;n#ul#0;n#div#0;n#div#0;n#section#0;n#!!top" expanded="false" />
-            <element signature="n#li#1;n#ul#0;n#div#0;n#div#0;n#section#0;n#!!top" expanded="false" />
-            <element signature="n#li#2;n#ul#0;n#div#0;n#div#0;n#section#0;n#!!top" expanded="false" />
-            <element signature="n#li#3;n#ul#0;n#div#0;n#div#0;n#section#0;n#!!top" expanded="false" />
-            <element signature="n#li#4;n#ul#0;n#div#0;n#div#0;n#section#0;n#!!top" expanded="false" />
-            <element signature="n#li#5;n#ul#0;n#div#0;n#div#0;n#section#0;n#!!top" expanded="false" />
-            <element signature="n#li#6;n#ul#0;n#div#0;n#div#0;n#section#0;n#!!top" expanded="false" />
-            <element signature="n#li#7;n#ul#0;n#div#0;n#div#0;n#section#0;n#!!top" expanded="false" />
-            <element signature="n#li#8;n#ul#0;n#div#0;n#div#0;n#section#0;n#!!top" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/css_src/_5_hydrangea.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-10.576923">
-          <caret line="29" column="24" selection-start-line="0" selection-start-column="0" selection-end-line="98" selection-end-column="0" />
-          <folding>
-            <element signature="e#738#1214#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/html/6_ranunculus.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/html_src/5_hydrangea.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-11.769231">
-          <caret line="32" column="13" selection-start-line="0" selection-start-column="0" selection-end-line="109" selection-end-column="37" />
+        <state vertical-scroll-proportion="-2.6153846">
+          <caret line="4" column="18" selection-start-line="4" selection-start-column="18" selection-end-line="4" selection-end-column="18" />
           <folding>
             <element signature="n#li#0;n#ul#0;n#div#0;n#div#0;n#section#0;n#!!top" expanded="false" />
             <element signature="n#li#1;n#ul#0;n#div#0;n#div#0;n#section#0;n#!!top" expanded="false" />
@@ -917,8 +915,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/html_src/4_peony.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-11.769231">
-          <caret line="55" column="0" selection-start-line="55" selection-start-column="0" selection-end-line="55" selection-end-column="0" />
+        <state vertical-scroll-proportion="-2.6153846">
+          <caret line="4" column="19" selection-start-line="4" selection-start-column="19" selection-end-line="4" selection-end-column="19" />
           <folding>
             <element signature="n#li#0;n#ul#0;n#div#0;n#div#0;n#section#0;n#!!top" expanded="false" />
             <element signature="n#li#1;n#ul#0;n#div#0;n#div#0;n#section#0;n#!!top" expanded="false" />
@@ -931,20 +929,18 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/css_src/_6_ranunculus.scss">
+    <entry file="file://$PROJECT_DIR$/html_src/5_hydrangea.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.53477764">
-          <caret line="80" column="10" selection-start-line="80" selection-start-column="10" selection-end-line="80" selection-end-column="10" />
-          <folding>
-            <element signature="e#518#712#0" expanded="false" />
-          </folding>
+        <state vertical-scroll-proportion="-2.5769231">
+          <caret line="4" column="23" selection-start-line="4" selection-start-column="23" selection-end-line="4" selection-end-column="23" />
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/html_src/6_ranunculus.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-17.5">
-          <caret line="67" column="46" selection-start-line="67" selection-start-column="46" selection-end-line="67" selection-end-column="46" />
+        <state vertical-scroll-proportion="-3.2692308">
+          <caret line="5" column="9" selection-start-line="5" selection-start-column="9" selection-end-line="5" selection-end-column="9" />
           <folding>
             <element signature="n#li#0;n#ul#0;n#div#0;n#div#0;n#section#0;n#!!top" expanded="false" />
             <element signature="n#li#1;n#ul#0;n#div#0;n#div#0;n#section#0;n#!!top" expanded="false" />
@@ -957,10 +953,42 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/html/1_main.html">
+    <entry file="file://$PROJECT_DIR$/css_src/_1_main.scss">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.42645383">
-          <caret line="22" column="27" selection-start-line="22" selection-start-column="27" selection-end-line="22" selection-end-column="27" />
+        <state vertical-scroll-proportion="-6.6538463">
+          <caret line="29" column="11" selection-start-line="29" selection-start-column="11" selection-end-line="29" selection-end-column="11" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/html_src/1_main.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-0.0">
+          <caret line="0" column="38" selection-start-line="0" selection-start-column="38" selection-end-line="0" selection-end-column="38" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/html_src/_include/_gnb.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.31264368">
+          <caret line="16" column="62" selection-start-line="16" selection-start-column="62" selection-end-line="16" selection-end-column="62" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css_src/_gnb.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-19.615385">
+          <caret line="30" column="0" selection-start-line="30" selection-start-column="0" selection-end-line="30" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js_src/_common.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.22767857">
+          <caret line="12" column="46" selection-start-line="12" selection-start-column="46" selection-end-line="12" selection-end-column="46" />
           <folding />
         </state>
       </provider>

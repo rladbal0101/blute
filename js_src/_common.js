@@ -4,7 +4,14 @@
 
 $(function(){
 
+  $('gnb-list-link').on('click', function(){
+
+    $(this).css({background:'#ff9fb4'});
+
+  });
+
   $('.square.small').on('mouseenter', function(){
+
 
     $(this).children('.small-text.change').css({display:'none'});
     $(this).children('.hidden-text-wrap').addClass('on');
@@ -20,15 +27,16 @@ $(function(){
 
   });
 
-  $('.square.small.popup').on('click', function(){
+  $('.popup-btn-more').on('click', function(){
 
-    $(this).children('.popup-height').addClass('on');
-    $(this).children('.popup-width').addClass('on');
+    $(this).next('.popup-height').addClass('on');
+    $(this).next('.popup-width').addClass('on');
 
   });
 
   $('.popup-btn-close').on('click',function(){
 
+    $(this).parents('.popup-width').removeClass('on');
     $(this).parents('.popup-height').removeClass('on');
 
   });
