@@ -38,8 +38,9 @@
       border-radius:50%;
       background:#8781bd;
       text-indent:-99999px;
+      transition: background .7s ease-out;
 
-      &:hover{
+      &:hover, &.on{
         background:#ff9fb4;
       }
 

@@ -35,6 +35,7 @@
 
 .title{
   @extend %clearfix;
+
   &-eng{
     font-size:30px;
     float:left;
@@ -67,7 +68,6 @@
       height: 100%;
       text-align: center;
       line-height: 240px;
-
     }
 
   }

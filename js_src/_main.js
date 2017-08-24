@@ -54,10 +54,4 @@ $(function(){
 
   });
 
-  $('.menu-list-link').on('mouseenter', function(){
-
-
-
-  });
-
 });
