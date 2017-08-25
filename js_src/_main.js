@@ -6,6 +6,9 @@ $(function(){
 
   var scrollDelta = 0;
 
+  $('.main-bg .bg-each').hide();
+  $('.main-bg .bg-each').eq(0).show();
+
   $(window).on('mousewheel', function(e){
 
     scrollDelta += e.originalEvent.wheelDelta;
@@ -19,6 +22,36 @@ $(function(){
       scrollDelta = -($('.menu-list').width() - $(window).width());
 
     }
+    console.log(scrollDelta);
+
+    if( 0 >= scrollDelta && scrollDelta >= -240){
+
+      $('.main-bg .bg-each').stop().fadeOut();
+      $('.main-bg .bg-each').eq(0).stop().fadeIn();
+
+    } else if( -240 > scrollDelta &&  scrollDelta >= -720 ){
+
+      $('.main-bg .bg-each').stop().fadeOut();
+      $('.main-bg .bg-each').eq(1).stop().fadeIn();
+
+    } else if( -720 > scrollDelta && scrollDelta >= -1200 ){
+
+      $('.main-bg .bg-each').stop().fadeOut();
+      $('.main-bg .bg-each').eq(2).stop().fadeIn();
+
+    } else if( -1200 > scrollDelta && scrollDelta >= -1780 ){
+
+      $('.main-bg .bg-each').stop().fadeOut();
+      $('.main-bg .bg-each').eq(3).stop().fadeIn();
+
+    } else if( -1780 > scrollDelta && scrollDelta >= -2380 ){
+
+      $('.main-bg .bg-each').stop().fadeOut();
+      $('.main-bg .bg-each').eq(4).stop().fadeIn();
+
+    }
+
+
 
     $('.menu-list').css({
       transform:'translateX(' + scrollDelta + 'px)'

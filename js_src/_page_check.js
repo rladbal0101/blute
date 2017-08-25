@@ -4,17 +4,25 @@
 
 $(function(){
 
-  if( page == 'tulip'){
+  if(page == 'tulip'){
 
-  } else if( page == 'rose' ){
+    $('.gnb-list-link').eq(0).addClass('on');
 
-    $('.gnb-list-link')
+  } else if(page == 'rose'){
 
-  } else if( page == 'peony' ){
+    $('.gnb-list-link').eq(1).addClass('on');
 
-  } else if( page == 'hydrangea' ){
+  } else if(page == 'peony'){
 
-  } else if( page == 'ranunculus' ){
+    $('.gnb-list-link').eq(2).addClass('on');
+
+  } else if(page == 'hydrangea'){
+
+    $('.gnb-list-link').eq(3).addClass('on');
+
+  } else if(page == 'ranunculus'){
+
+    $('.gnb-list-link').eq(4).addClass('on');
 
   }
 
