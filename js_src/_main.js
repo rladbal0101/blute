@@ -51,8 +51,6 @@ $(function(){
 
     }
 
-
-
     $('.menu-list').css({
       transform:'translateX(' + scrollDelta + 'px)'
     });

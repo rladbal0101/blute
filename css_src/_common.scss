@@ -4,20 +4,6 @@
   clear:both;
 }
 
-.logo{
-  padding: 40px 0 0 50px;
-  position: fixed;
-
-  &-link{
-    display:block;
-    width:100px;
-    height:62px;
-    background:url("../images/logo.png") no-repeat;
-    text-indent:-99999px;
-
-  }
-}
-
 .section{
   height:1800px;
 }
@@ -67,6 +53,7 @@
       height: 100%;
       text-align: center;
       line-height: 240px;
+
     }
 
   }
@@ -77,13 +64,12 @@
     overflow: hidden;
 
     &>.big-image{
+      transition: transform .5s;
       &:hover{
         transform: scale(1.15);
-        transition: transform 1s;
       }
     }
   }
-
 }
 
 .hidden-text-wrap{
@@ -95,30 +81,101 @@
   top: 50%;
   left: 50%;
   transform: translateX(-50%) translateY(-50%);
-  border: 5px solid #fff;
+  box-sizing: border-box;
   display:none;
 
   &.on{
     display: block;
   }
+  // 왼쪽 줄
+  &:before{
+    content:"";
+    display:block;
+    width:5px;
+    height:0;
+    background:#fff;
+    position:absolute;
+    top:0;
+    left:0;
+    transition:all .5s ease-out;
+  }
+
+  &.frame1:before{
+    height:100%;
+  }
+
+  // 아랫줄
+  &:after{
+    content:"";
+    display:block;
+    width:0;
+    height:5px;
+    background:#fff;
+    position:absolute;
+    bottom:0;
+    left:0;
+    transition:all .5s ease-out;
+  }
+
+  &.frame2:after{
+    width:100%;
+  }
 
   &>.hidden-text{
+    width:240px;
+    height:240px;
     font-weight: 700;
     position: absolute;
 
+    // 오른쪽 줄
+    &:after{
+      content:"";
+      display:block;
+      width:5px;
+      height:0;
+      background:#fff;
+      position:absolute;
+      right:0;
+      bottom:0;
+      transition:all .5s ease-out;
+    }
+
+    &.frame3:after{
+      height:100%;
+    }
+
+    // 윗줄
+    &:before{
+      content:"";
+      display:block;
+      width:0;
+      height:5px;
+      background:#fff;
+      position:absolute;
+      right:0;
+      top:0;
+      transition:all .5s ease-out;
+    }
+
+    &.frame4:before{
+      width:100%;
+    }
+
+
     &.first{
-      top:40px;
-      left:20px;
+      padding: 45px 0 0 20px;
+      box-sizing: border-box;
     }
     &.middle{
       font-size:30px;
-      top: 50%;
-      left: 50%;
-      transform: translateX(-50%) translateY(-50%);
+      text-align: center;
+      line-height: 240px;
     }
     &.last{
-      bottom:40px;
-      right:20px;
+      text-align: right;
+      line-height: 350px;
+      padding: 0 20px 40px 0;
+      box-sizing: border-box;
     }
     &.num{
       font-size: 80px;
