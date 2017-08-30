@@ -97,7 +97,7 @@
     position:absolute;
     top:0;
     left:0;
-    transition:all .5s ease-out;
+    transition:all .3s ease-out;
   }
 
   &.frame1:before{
@@ -114,7 +114,7 @@
     position:absolute;
     bottom:0;
     left:0;
-    transition:all .5s ease-out;
+    transition:all .3s ease-out;
   }
 
   &.frame2:after{
@@ -137,7 +137,7 @@
       position:absolute;
       right:0;
       bottom:0;
-      transition:all .5s ease-out;
+      transition:all .3s ease-out;
     }
 
     &.frame3:after{
@@ -154,7 +154,7 @@
       position:absolute;
       right:0;
       top:0;
-      transition:all .5s ease-out;
+      transition:all .3s ease-out;
     }
 
     &.frame4:before{
@@ -255,13 +255,9 @@
       bottom: 0;
       right: 0;
       background:url("../images/more_btn.png") no-repeat 190px 190px;
-      border: 5px solid #fff;
+      border:0;
       cursor: pointer;
-      display:none;
 
-      &.on{
-        display:block;
-      }
     }
 
     &-close{
