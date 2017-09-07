@@ -22,7 +22,7 @@ $(function(){
       scrollDelta = -($('.menu-list').width() - $(window).width());
 
     }
-    console.log(scrollDelta);
+    //console.log(scrollDelta);
 
     if( 0 >= scrollDelta && scrollDelta >= -240){
 

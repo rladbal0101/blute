@@ -20,6 +20,13 @@ gulp.task('livereload', function(){
 });
 
 // header, footer, 공통영역 분리
+gulp.task('index', function(){
+  gulp.src('html_src/index.html')
+      .pipe(include())
+      .on('error', console.log)
+      .pipe(gulp.dest("./"));
+});
+
 gulp.task('include', function(){
   gulp.src('html_src/*.html')
       .pipe(include())
@@ -56,4 +63,4 @@ gulp.task('blute', function() {
 
 gulp.task('jsconcat', ['blute']);
 
-gulp.task('default', ['livereload', 'include', 'sass', 'jsconcat', 'watch'] );
+gulp.task('default', ['livereload', 'index', 'include', 'sass', 'jsconcat', 'watch'] );
